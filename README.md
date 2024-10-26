@@ -11,4 +11,11 @@ Langkah-langkah :
    Jika bilangan3 lebih besar dari bilangan terbesar saat ini, maka bilangan3 adalah bilangan terbesar yang baru.
 6. Output : Tampilkan bilangan terbesar.
 7. Selesai
-   
+
+FLOWCHART
+
+![image](https://github.com/user-attachments/assets/8a5998ab-fd46-4f05-b707-0719cb85208a)
+
+HASIL PROGRAM
+   ![Screenshot (191)](https://github.com/user-attachments/assets/816e30b5-aa2b-41b2-b478-beb3742548b5)
+
